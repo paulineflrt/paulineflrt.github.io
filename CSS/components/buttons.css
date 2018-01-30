@@ -1,0 +1,13 @@
+#btn-soldes {
+	background-color: red;
+	color: white;
+	border-radius: 6px;
+	text-decoration: none;
+	height: 40px;
+	width: 140px;
+}
+
+#btn-soldes:hover {
+	background-color: #A2A2A2;
+	text-decoration: none;
+}
