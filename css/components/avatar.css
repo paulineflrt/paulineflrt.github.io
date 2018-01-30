@@ -1,0 +1,19 @@
+#gif {
+	width : 400px;
+	border : solid 5px #D6C4C0;
+	border-radius: 5px;
+}
+
+#gif2 {
+	width : 290px;
+	border : dotted 3px #D6C4C0;
+}
+
+#fb {
+	font-size: 75px ;
+	color:#425fb4;
+}
+
+#fb:hover {
+	color : #A2A2A2;
+}
